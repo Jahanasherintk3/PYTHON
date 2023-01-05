@@ -1,0 +1,6 @@
+a=[2,3,4,5,6,7]   #bytes must be in range(0,256)
+b=bytes(a)
+c=bytearray(a)
+print(type(a))
+print(type(b))
+print(type(c))
