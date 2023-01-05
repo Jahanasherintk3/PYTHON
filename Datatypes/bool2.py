@@ -16,5 +16,6 @@ print(bool(0.0))
 print(bool(0.0011))
 print(bool("salman Khan"))
 print(bool(""))
+print(bool(10+20j))
 
 '''this is converting boolean '''
