@@ -1,0 +1,5 @@
+print(10<20)
+print(10!=20)
+print("Rahul" != "Gandhi")
+print("Rahul" == "Rahul") 
+print(10 < 20 and 10 > 20)  
